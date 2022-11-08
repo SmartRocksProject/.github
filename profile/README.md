@@ -7,7 +7,7 @@ Sponsored by Raytheon Technologies.
 ## Project Description
 
 <p align="center">
-    <img src="diagram.jpeg" width="500"/>
+    <img src="https://raw.githubusercontent.com/SmartRocksProject/.github/main/profile/diagram.jpeg" width="500"/>
 </p>
 
 ### Need
